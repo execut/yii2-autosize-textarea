@@ -55,7 +55,7 @@ echo $form->field(new \Model(), 'text')->widget(TextareaWidget::class, [
 \yii\widgets\ActiveForm::end();
 
 ```
-![Example autosize textarea widget for Yii2](https://raw.github.com/execut/yii2-autoresize-textarea/master/example/example.png)
+![Example autosize textarea widget for Yii2](https://raw.github.com/execut/yii2-autosize-textarea/master/example/example.png)
 
 ## License
 
