@@ -1,0 +1,24 @@
+{
+  "name": "execut/yii2-autosize-textarea",
+  "description": "Autosize textarea widget for Yii2 based on jquery.ns-autogrow plugin",
+  "keywords": ["yii2", "extension", "autosize", "textarea", "form", "jquery", "plugin"],
+  "homepage": "https://github.com/execut/yii2-widget-bootstraptreeview",
+  "type": "yii2-extension",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Yuriy Mamaev"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "execut/yii2-base": "*",
+    "yiisoft/yii2-jui": "@dev",
+    "bower-asset/jquery.ns-autogrow": "@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "execut\\autosizeTextarea\\": ""
+    }
+  }
+}
