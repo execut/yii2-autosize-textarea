@@ -14,7 +14,7 @@
   "require": {
     "execut/yii2-base": "*",
     "yiisoft/yii2-jui": "@dev",
-    "bower-asset/jquery.ns-autogrow": "@dev"
+    "bower-asset/jquery.ns-autogrow": "1.1.4"
   },
   "autoload": {
     "psr-4": {
